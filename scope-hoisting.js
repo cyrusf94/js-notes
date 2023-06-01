@@ -133,3 +133,5 @@ run()
     }  
 }
 console.log(something);
+
+// ! THIS IS BAD - don't use hoisting to your "benefit"
