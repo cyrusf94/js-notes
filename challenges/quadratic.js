@@ -47,3 +47,5 @@ let pythagoreamTheorem = function(a, b) {
 }
 
 console.log(pythagoreamTheorem(2, 20));
+
+
